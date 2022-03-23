@@ -24,7 +24,7 @@ export default class BoardLayout extends React.Component {
         </div>
         <div>
           <button onClick={this.props.handleCheck}>Check the game</button>
-          <button>Restart the game</button>
+          {/*<button>Restart the game</button>*/}
         </div>
       </div>
     );

@@ -1,3 +1,3 @@
-# react-xjutbe
+# React Sudoku
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-xjutbe)
+Sudoku created in React for school purposes.
