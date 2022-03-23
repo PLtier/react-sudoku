@@ -1,0 +1,14 @@
+Zaplanować trzeba
+
+Board
+
+wygląd - divy, gdzie odpowiednie są szare.
+
+Wpisywanie - context editable
+
+Struktura - tablica 2 wymiarowa, niektóre są prefilled
+
+
+
+Sprawdzanie - linia po linii i potem kolumny. zastosuj set, kolumy zrobisz tak na pałę trochę xD
+
